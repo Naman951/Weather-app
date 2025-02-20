@@ -18,13 +18,6 @@ Requests Library 🌍
 
 OpenWeatherMap API ☁️
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
-
 Install required dependencies:
 
 pip install requests
